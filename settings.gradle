@@ -1,0 +1,3 @@
+include ':msa_mdid_aar'
+include ':app'
+rootProject.name = "msa_mdid"
